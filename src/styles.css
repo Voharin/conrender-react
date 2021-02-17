@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.button {
+  text-align: left;
+  background-color: aquamarine;
+  font: outline;
+  font-size: large;
+  margin: 10px;
+}
